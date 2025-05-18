@@ -1,0 +1,11 @@
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\bin\Debug\net6.0\PrimeLib.deps.json
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\bin\Debug\net6.0\PrimeLib.dll
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\bin\Debug\net6.0\PrimeLib.pdb
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\PrimeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\PrimeLib.AssemblyInfoInputs.cache
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\PrimeLib.AssemblyInfo.cs
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\PrimeLib.csproj.CoreCompileInputs.cache
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\PrimeLib.dll
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\refint\PrimeLib.dll
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\PrimeLib.pdb
+C:\Users\adora\OneDrive\Documents\Week_2\PrimeLib\obj\Debug\net6.0\ref\PrimeLib.dll
