@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customers>
+  <customer>
+    <name>Bob Smith</name>
+    <creditcard>eTF4gJAW1a1vNf7viyqTMOR/vSyeT0k3A9i4jrQ2qXY=</creditcard>
+    <password>rAg8yjSmgcSIZbMCBTpwdg==:7LoArLF3BpKfIsMvt9grchZ7ilfdfK08/r5dnFu57ng=</password>
+  </customer>
+  <customer>
+    <name>Jane Doe</name>
+    <creditcard>cF6YOVKgNlIxkV1mxBzFiEOHtyRV9tXXxn3dnGMHIBE=</creditcard>
+    <password>7eRqRWB18W8zpObYIYV05A==:TAowfbX2tK2IzLpktSIdzp7Fi5bYeIb2EzFKR3TN5oE=</password>
+  </customer>
+  <customer>
+    <name>John Johnson</name>
+    <creditcard>MRrRwcYlRWu7VtsB7aTK2OeTFXeReGf192c8je4H5Dg=</creditcard>
+    <password>5ArrSBXBTrOmOc3OsOmdwA==:1Z1T85OmX3AdjzDu1ko858x+V3wYm+O8wjr8MfEDrjU=</password>
+  </customer>
+  <customer>
+    <name>Emily Davis</name>
+    <creditcard>quBXieIGhQwBSx4BUvxQ5jpS7GDnq8ul/9jpNOjgEYM=</creditcard>
+    <password>TMEIceCHgXLAB+9FKeHItg==:tATWkDwbhS/wpHOhxg+ai+Lc/2v1z+DKFwJI8G+ooBw=</password>
+  </customer>
+  <customer>
+    <name>Michael Brown</name>
+    <creditcard>3iXmxTEMiFaBP6Vyx3UbpXZlex0dPgDTx2psp9t/3ro=</creditcard>
+    <password>6VoegC9Ku5Vf+opcbB55eA==:LFH65ZkdCJkD8lT/5oSk9PS3I0AGSKbZQiNZneNcbZg=</password>
+  </customer>
+</customers>
