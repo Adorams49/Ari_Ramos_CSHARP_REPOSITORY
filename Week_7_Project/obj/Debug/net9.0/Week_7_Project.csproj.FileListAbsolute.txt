@@ -1,0 +1,14 @@
+C:\Users\adora\OneDrive\Documents\Week_7_Project\bin\Debug\net9.0\Week_7_Project.exe
+C:\Users\adora\OneDrive\Documents\Week_7_Project\bin\Debug\net9.0\Week_7_Project.deps.json
+C:\Users\adora\OneDrive\Documents\Week_7_Project\bin\Debug\net9.0\Week_7_Project.runtimeconfig.json
+C:\Users\adora\OneDrive\Documents\Week_7_Project\bin\Debug\net9.0\Week_7_Project.dll
+C:\Users\adora\OneDrive\Documents\Week_7_Project\bin\Debug\net9.0\Week_7_Project.pdb
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.AssemblyInfoInputs.cache
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.AssemblyInfo.cs
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.csproj.CoreCompileInputs.cache
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.dll
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\refint\Week_7_Project.dll
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.pdb
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\Week_7_Project.genruntimeconfig.cache
+C:\Users\adora\OneDrive\Documents\Week_7_Project\obj\Debug\net9.0\ref\Week_7_Project.dll
